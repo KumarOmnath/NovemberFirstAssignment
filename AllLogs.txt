@@ -1,0 +1,70 @@
+Before navigating to: 'https://app-demo.novemberfirst.com'
+Navigated to:'https://app-demo.novemberfirst.com'
+Trying to find Element By : By.xpath: //*[contains(@class,'mat-select-arrow ')]
+Found Element By : By.xpath: //*[contains(@class,'mat-select-arrow ')]
+Trying to find Element By : By.xpath: //*[contains(@class,'mat-select-arrow ')]
+Found Element By : By.xpath: //*[contains(@class,'mat-select-arrow ')]
+Trying to find Element By : By.xpath: //*[contains(@class,'mat-select-arrow ')]
+Found Element By : By.xpath: //*[contains(@class,'mat-select-arrow ')]
+Trying to find Element By : By.xpath: //span[.='English']
+Found Element By : By.xpath: //span[.='English']
+Trying to find Element By : By.xpath: //*[@data-placeholder='Customer number']
+Found Element By : By.xpath: //*[@data-placeholder='Customer number']
+Trying to find Element By : By.xpath: //*[@data-placeholder='Customer number']
+Found Element By : By.xpath: //*[@data-placeholder='Customer number']
+expected element is displayed
+Trying to find Element By : By.xpath: //*[@data-placeholder='Customer number']
+Found Element By : By.xpath: //*[@data-placeholder='Customer number']
+Trying to find Element By : By.xpath: //*[@name='email']
+Found Element By : By.xpath: //*[@name='email']
+Trying to find Element By : By.xpath: //*[@name='email']
+Found Element By : By.xpath: //*[@name='email']
+expected element is displayed
+Trying to find Element By : By.xpath: //*[@name='email']
+Found Element By : By.xpath: //*[@name='email']
+Trying to find Element By : By.xpath: //*[@data-placeholder='Password']
+Found Element By : By.xpath: //*[@data-placeholder='Password']
+Trying to find Element By : By.xpath: //*[@data-placeholder='Password']
+Found Element By : By.xpath: //*[@data-placeholder='Password']
+expected element is displayed
+Trying to find Element By : By.xpath: //*[@data-placeholder='Password']
+Found Element By : By.xpath: //*[@data-placeholder='Password']
+Trying to find Element By : By.xpath: //*[@class='mat-checkbox-frame']
+Found Element By : By.xpath: //*[@class='mat-checkbox-frame']
+Trying to find Element By : By.xpath: //*[@class='mat-checkbox-frame']
+Found Element By : By.xpath: //*[@class='mat-checkbox-frame']
+Trying to find Element By : By.xpath: (//*[.=' Log in '])[3]
+Found Element By : By.xpath: (//*[.=' Log in '])[3]
+Trying to find Element By : By.xpath: (//*[.=' Log in '])[3]
+Found Element By : By.xpath: (//*[.=' Log in '])[3]
+expected elementLog in is displayed
+Trying to find Element By : By.xpath: (//*[.=' Log in '])[3]
+Found Element By : By.xpath: (//*[.=' Log in '])[3]
+Trying to find Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Found Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Trying to find Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Found Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+expected elementYour login attempt was unsuccessful. You have 5 attempts in total before your user is blocked for 24 hours. Try again or reset the password here. is displayed
+Trying to find Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Found Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Trying to find Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Found Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Trying to find Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Found Element By : By.xpath: (//*[@class='ng-star-inserted'])[3]
+Your login attempt was unsuccessful. You have 5 attempts in total before your user is blocked for 24 hours. Try again or reset the password here.
+<<<<<<<<<browser close>>>>>>>>>>>>>
+PASSED: feature(NovermberFirst Login pages automation Assignment)
+        Runs Cucumber Feature
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+Configuration Failures: 1, Skips: 0
+===============================================
+
